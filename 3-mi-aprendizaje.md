@@ -1,3 +1,1 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+Al principio, me parecía un poco complicado tener que usar docker run cada vez que quería crear un contenedor. Pero tras practicar un poco, me di cuenta de que con el archivo compose.yaml todo se vuelve mucho más sencillo. En él, puedo definir varios servicios junto con sus puertos, volúmenes y configuraciones, y luego iniciar todo con un solo comando. Esto ha hecho que manejar múltiples contenedores al mismo tiempo sea mucho más fácil.
